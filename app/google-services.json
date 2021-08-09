@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874351000900",
+    "project_id": "socialmediain-sparkfoundation",
+    "storage_bucket": "socialmediain-sparkfoundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874351000900:android:ceaca365a64ff03d12eb11",
+        "android_client_info": {
+          "package_name": "com.itsthetom.socialmediain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874351000900-fridofuk1lp4aluk1po6tvmm1b2ejgj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itsthetom.socialmediain",
+            "certificate_hash": "1d72eab05d75d07d12b7f8c06b63319ca228f909"
+          }
+        },
+        {
+          "client_id": "874351000900-ojjl5us41qdurjbqrvqd321ds457mv29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrNRXWamB5tyL7mhPW-hbS2ybhPhlzlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874351000900-ojjl5us41qdurjbqrvqd321ds457mv29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

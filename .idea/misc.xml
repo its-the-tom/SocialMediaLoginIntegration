@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/bg_bottom_curved.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/bg_round.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/bg_round_top_corner.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/bg_transparent.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/ic_back.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/ic_img_login_bg.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/ic_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_create_account.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_forget_pass.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_login_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_login_bg_gradient.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_login_illustration.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/drawable/img_profile_pic.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/activity_profile.xml" value="0.25677083333333334" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/fragment_create_account.xml" value="0.25677083333333334" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/fragment_forget_password.xml" value="0.264" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Android/SocialMediaIn/app/src/main/res/layout/layout_loading.xml" value="0.2361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

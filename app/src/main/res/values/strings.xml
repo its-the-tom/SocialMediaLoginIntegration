@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialMediaIn</string>
+
+    <string name="facebook_app_id">524150042200413</string>
+    <string name="facebook_application_id">524150042200413</string>
+    <string name="fb_login_protocol_scheme">fb524150042200413</string>
+
+    <string name="enter_your_registered_email_below_to_receive_password_reset_instruction">Enter your registered email below to receive password reset instruction.</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+</resources>
